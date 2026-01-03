@@ -31,4 +31,9 @@ public class HelloWorld {
 	public void method5() {
 		System.out.println("From b1 branch method 5");
 	}	
+	
+	// side branch demo 6
+	public void method6() {
+		System.out.println("Updated in master directly");
+	}
 }
