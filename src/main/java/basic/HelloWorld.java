@@ -19,13 +19,16 @@ public class HelloWorld {
 
 	// side branch demo 3
 	public void method3() {
-		System.out.println("From b1 branch method 2");
+		System.out.println("From b1 branch method 3");
 	}
 	
 	// side branch demo 4
 	public void method4() {
-		System.out.println("From b1 branch method 2");
+		System.out.println("From b1 branch method 4");
 	}	
 	
-	
+	// side branch demo 5
+	public void method5() {
+		System.out.println("From b1 branch method 5");
+	}	
 }
