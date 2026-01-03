@@ -22,5 +22,10 @@ public class HelloWorld {
 		System.out.println("From b1 branch method 2");
 	}
 	
+	// side branch demo 4
+	public void method4() {
+		System.out.println("From b1 branch method 2");
+	}	
+	
 	
 }
