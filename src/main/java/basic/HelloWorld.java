@@ -36,4 +36,9 @@ public class HelloWorld {
 	public void method6() {
 		System.out.println("Updated in master directly");
 	}
+	
+	// side branch demo 7
+	public void method7() {
+		System.out.println("Updated in master directly 2");
+	}
 }
