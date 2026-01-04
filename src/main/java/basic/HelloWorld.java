@@ -10,7 +10,7 @@ public class HelloWorld {
 	
 	// side branch demo
 	public void method1() {
-		System.out.println("From b1 branch");
+		System.out.println("From b1 branch");// from y1 branch for stashing demo
 	}
 
 	// side branch demo 2
